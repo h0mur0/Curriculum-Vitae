@@ -1,6 +1,6 @@
 # Wang Jie
 
-**PhD Student** · the School of Cyberspace Security, Beihang University  
+**PhD Student** · the School of Cyberspace Security, Beihang University
 **Email** · 21371271@buaa.edu.cn
 **Supervisor** · Prof. Ying Gao
 
